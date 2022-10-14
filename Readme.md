@@ -1,6 +1,6 @@
 #  Interior Design Landing Page &nbsp; ![badge](https://img.shields.io/badge/HTML%20and%20CSS-Project10-green) &nbsp; ![badge](https://img.shields.io/badge/-Responsive-orange)
 
-[![](https://img.shields.io/badge/Live-Link-blue)](https://designlandingpage-web.netlify.app/)
+[![](https://img.shields.io/badge/Live-Link-blue)](https://interiordesign-landing-page.netlify.app/)
 
 ## Skills acquired 👨‍💻
 - How to use the css position property to aign the elements at specific position.
